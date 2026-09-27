@@ -1,0 +1,3 @@
+an Open Source Intelligence (OSINT) framework that aggregates publicly available information about targets from multiple sources including WHOIS, DNS, social media, breach databases, and search engines, automating reconnaissance for penetration testing and threat analysis. This project teaches information gathering techniques, API integration, and demonstrates tools used for threat intelligence and reconnaissance.
+
+https://github.com/CarterPerez-dev/Cybersecurity-Projects/blob/main/SYNOPSES/intermediate/OSINT.Reconnaissance.Framework.md

@@ -1,0 +1,639 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-27T04:23:01.289659+00:00",
+  "title": "Design System: Sounding",
+  "extensions": {
+    "colorMeta": {
+      "console-ground": {
+        "role": "neutral",
+        "displayName": "Console Ground",
+        "canonical": "#000000",
+        "oklch": "oklch(0.0% 0.000 0.0)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#252525",
+          "#424242",
+          "#616161",
+          "#828282",
+          "#a5a5a5",
+          "#c9c9c9",
+          "#eeeeee"
+        ]
+      },
+      "console-bay": {
+        "role": "neutral",
+        "displayName": "Console Bay",
+        "canonical": "#0a0a0a",
+        "oklch": "oklch(14.5% 0.000 89.9)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#252525",
+          "#424242",
+          "#616161",
+          "#828282",
+          "#a5a5a5",
+          "#c9c9c9",
+          "#eeeeee"
+        ]
+      },
+      "console-bay-raised": {
+        "role": "neutral",
+        "displayName": "Console Bay Raised",
+        "canonical": "#161616",
+        "oklch": "oklch(20.0% 0.000 89.9)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#252525",
+          "#424242",
+          "#616161",
+          "#828282",
+          "#a5a5a5",
+          "#c9c9c9",
+          "#eeeeee"
+        ]
+      },
+      "console-rail": {
+        "role": "neutral",
+        "displayName": "Console Rail",
+        "canonical": "#262626",
+        "oklch": "oklch(26.9% 0.000 89.9)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#252525",
+          "#424242",
+          "#616161",
+          "#828282",
+          "#a5a5a5",
+          "#c9c9c9",
+          "#eeeeee"
+        ]
+      },
+      "console-text": {
+        "role": "neutral",
+        "displayName": "Console Text",
+        "canonical": "#ededed",
+        "oklch": "oklch(94.6% 0.000 89.9)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#252525",
+          "#424242",
+          "#616161",
+          "#828282",
+          "#a5a5a5",
+          "#c9c9c9",
+          "#eeeeee"
+        ]
+      },
+      "console-text-2": {
+        "role": "neutral",
+        "displayName": "Console Text 2",
+        "canonical": "#a3a3a3",
+        "oklch": "oklch(71.5% 0.000 89.9)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#252525",
+          "#424242",
+          "#616161",
+          "#828282",
+          "#a5a5a5",
+          "#c9c9c9",
+          "#eeeeee"
+        ]
+      },
+      "console-text-3": {
+        "role": "neutral",
+        "displayName": "Console Text 3",
+        "canonical": "#8a8a8a",
+        "oklch": "oklch(63.3% 0.000 89.9)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#252525",
+          "#424242",
+          "#616161",
+          "#828282",
+          "#a5a5a5",
+          "#c9c9c9",
+          "#eeeeee"
+        ]
+      },
+      "strip-paper": {
+        "role": "neutral",
+        "displayName": "Strip Paper",
+        "canonical": "#0a0a0a",
+        "oklch": "oklch(14.5% 0.000 89.9)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#252525",
+          "#424242",
+          "#616161",
+          "#828282",
+          "#a5a5a5",
+          "#c9c9c9",
+          "#eeeeee"
+        ]
+      },
+      "strip-paper-shade": {
+        "role": "neutral",
+        "displayName": "Strip Paper Shade",
+        "canonical": "#1a1a1a",
+        "oklch": "oklch(21.8% 0.000 89.9)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#252525",
+          "#424242",
+          "#616161",
+          "#828282",
+          "#a5a5a5",
+          "#c9c9c9",
+          "#eeeeee"
+        ]
+      },
+      "strip-paper-rule": {
+        "role": "neutral",
+        "displayName": "Strip Paper Rule",
+        "canonical": "#1f1f1f",
+        "oklch": "oklch(23.9% 0.000 89.9)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#252525",
+          "#424242",
+          "#616161",
+          "#828282",
+          "#a5a5a5",
+          "#c9c9c9",
+          "#eeeeee"
+        ]
+      },
+      "strip-ink": {
+        "role": "neutral",
+        "displayName": "Strip Ink",
+        "canonical": "#ededed",
+        "oklch": "oklch(94.6% 0.000 89.9)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#252525",
+          "#424242",
+          "#616161",
+          "#828282",
+          "#a5a5a5",
+          "#c9c9c9",
+          "#eeeeee"
+        ]
+      },
+      "strip-ink-2": {
+        "role": "neutral",
+        "displayName": "Strip Ink 2",
+        "canonical": "#9e9e9e",
+        "oklch": "oklch(69.9% 0.000 89.9)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#252525",
+          "#424242",
+          "#616161",
+          "#828282",
+          "#a5a5a5",
+          "#c9c9c9",
+          "#eeeeee"
+        ]
+      },
+      "radar-cyan": {
+        "role": "primary",
+        "displayName": "Radar Cyan",
+        "canonical": "#fafafa",
+        "oklch": "oklch(98.5% 0.000 89.9)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#252525",
+          "#424242",
+          "#616161",
+          "#828282",
+          "#a5a5a5",
+          "#c9c9c9",
+          "#eeeeee"
+        ]
+      },
+      "radar-cyan-deep": {
+        "role": "primary",
+        "displayName": "Deep Radar Cyan",
+        "canonical": "#525252",
+        "oklch": "oklch(43.9% 0.000 89.9)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#252525",
+          "#424242",
+          "#616161",
+          "#828282",
+          "#a5a5a5",
+          "#c9c9c9",
+          "#eeeeee"
+        ]
+      },
+      "grease-blue": {
+        "role": "tertiary",
+        "displayName": "Grease Blue",
+        "canonical": "#4ade80",
+        "oklch": "oklch(80.0% 0.182 151.7)",
+        "tonalRamp": [
+          "#001500",
+          "#003800",
+          "#005900",
+          "#007b21",
+          "#009f45",
+          "#23c468",
+          "#58ea8b",
+          "#b7ffca"
+        ]
+      },
+      "grease-red": {
+        "role": "tertiary",
+        "displayName": "Grease Red",
+        "canonical": "#f87171",
+        "oklch": "oklch(71.1% 0.166 22.2)",
+        "tonalRamp": [
+          "#280000",
+          "#5e0000",
+          "#840012",
+          "#ac2933",
+          "#d35053",
+          "#fc7474",
+          "#ff9997",
+          "#ffd4d0"
+        ]
+      },
+      "alert": {
+        "role": "tertiary",
+        "displayName": "Console Alert",
+        "canonical": "#f87171",
+        "oklch": "oklch(71.1% 0.166 22.2)",
+        "tonalRamp": [
+          "#280000",
+          "#5e0000",
+          "#840012",
+          "#ac2933",
+          "#d35053",
+          "#fc7474",
+          "#ff9997",
+          "#ffd4d0"
+        ]
+      },
+      "ok": {
+        "role": "tertiary",
+        "displayName": "Console OK",
+        "canonical": "#4ade80",
+        "oklch": "oklch(80.0% 0.182 151.7)",
+        "tonalRamp": [
+          "#001500",
+          "#003800",
+          "#005900",
+          "#007b21",
+          "#009f45",
+          "#23c468",
+          "#58ea8b",
+          "#b7ffca"
+        ]
+      },
+      "holder-registration": {
+        "role": "secondary",
+        "displayName": "Holder Registration",
+        "canonical": "#60a5fa",
+        "oklch": "oklch(71.4% 0.143 254.6)",
+        "tonalRamp": [
+          "#00062e",
+          "#001c67",
+          "#003f8b",
+          "#1961b0",
+          "#3f83d6",
+          "#62a7fd",
+          "#86cdff",
+          "#c8f2ff"
+        ]
+      },
+      "holder-dns": {
+        "role": "secondary",
+        "displayName": "Holder Dns",
+        "canonical": "#34d399",
+        "oklch": "oklch(77.3% 0.153 163.2)",
+        "tonalRamp": [
+          "#001502",
+          "#00380b",
+          "#005828",
+          "#007a47",
+          "#009e67",
+          "#0ec289",
+          "#51e8ad",
+          "#b5ffdd"
+        ]
+      },
+      "holder-routing": {
+        "role": "secondary",
+        "displayName": "Holder Routing",
+        "canonical": "#facc15",
+        "oklch": "oklch(86.1% 0.173 91.9)",
+        "tonalRamp": [
+          "#1a0500",
+          "#421700",
+          "#633800",
+          "#855900",
+          "#a87b00",
+          "#cc9f00",
+          "#f2c400",
+          "#ffed9c"
+        ]
+      },
+      "holder-web": {
+        "role": "secondary",
+        "displayName": "Holder Web",
+        "canonical": "#fb923c",
+        "oklch": "oklch(75.8% 0.159 55.9)",
+        "tonalRamp": [
+          "#250000",
+          "#570000",
+          "#7b1900",
+          "#a13f00",
+          "#c76300",
+          "#ee872e",
+          "#ffab58",
+          "#ffdeb0"
+        ]
+      },
+      "holder-history": {
+        "role": "secondary",
+        "displayName": "Holder History",
+        "canonical": "#a78bfa",
+        "oklch": "oklch(70.9% 0.159 293.5)",
+        "tonalRamp": [
+          "#10002e",
+          "#2e0068",
+          "#4a258c",
+          "#6849b1",
+          "#896bd7",
+          "#ab8ffe",
+          "#cfb3ff",
+          "#f1e3ff"
+        ]
+      },
+      "holder-threat": {
+        "role": "secondary",
+        "displayName": "Holder Threat",
+        "canonical": "#f87171",
+        "oklch": "oklch(71.1% 0.166 22.2)",
+        "tonalRamp": [
+          "#280000",
+          "#5e0000",
+          "#840012",
+          "#ac2933",
+          "#d35053",
+          "#fc7474",
+          "#ff9997",
+          "#ffd4d0"
+        ]
+      },
+      "holder-target": {
+        "role": "secondary",
+        "displayName": "Holder Target",
+        "canonical": "#fafafa",
+        "oklch": "oklch(98.5% 0.000 89.9)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#252525",
+          "#424242",
+          "#616161",
+          "#828282",
+          "#a5a5a5",
+          "#c9c9c9",
+          "#eeeeee"
+        ]
+      },
+      "holder-empty": {
+        "role": "secondary",
+        "displayName": "Holder Empty",
+        "canonical": "#525252",
+        "oklch": "oklch(43.9% 0.000 89.9)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#252525",
+          "#424242",
+          "#616161",
+          "#828282",
+          "#a5a5a5",
+          "#c9c9c9",
+          "#eeeeee"
+        ]
+      },
+      "holder-ink": {
+        "role": "secondary",
+        "displayName": "Holder Ink",
+        "canonical": "#000000",
+        "oklch": "oklch(0.0% 0.000 0.0)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#252525",
+          "#424242",
+          "#616161",
+          "#828282",
+          "#a5a5a5",
+          "#c9c9c9",
+          "#eeeeee"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Page titles."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "The target and the swept indicator; tabular slashed-zero figures."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Prose, strip values, list items."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Bay headings, strip callsigns, holder codes."
+      },
+      "caption": {
+        "displayName": "Caption",
+        "purpose": "Field caption above a value inside a strip cell."
+      },
+      "code": {
+        "displayName": "Code",
+        "purpose": "Raw JSON responses only."
+      }
+    },
+    "shadows": [
+      {
+        "name": "strip",
+        "value": "0 1px 0 rgb(0 0 0 / .35), 0 3px 8px -2px rgb(0 0 0 / .35)",
+        "purpose": "A strip sitting proud of the rack."
+      },
+      {
+        "name": "overlay",
+        "value": "0 10px 30px -6px rgb(0 0 0 / .65)",
+        "purpose": "Floating map panels."
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease-out-expo",
+        "value": "cubic-bezier(0.16, 1, 0.3, 1)",
+        "purpose": "Strip landing, grease tick, checkbox tick."
+      },
+      {
+        "name": "strip-land",
+        "value": "240ms",
+        "purpose": "A strip slides 14px into its bay with a clip reveal."
+      },
+      {
+        "name": "grease",
+        "value": "320ms, 140ms delay",
+        "purpose": "The grease-pencil tick or cross is drawn."
+      },
+      {
+        "name": "scope-sweep",
+        "value": "2.6s linear infinite",
+        "purpose": "Radar wedge while a sweep runs."
+      },
+      {
+        "name": "state",
+        "value": "150ms",
+        "purpose": "Hover and colour transitions."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "sm",
+        "value": "640px"
+      },
+      {
+        "name": "md",
+        "value": "768px"
+      },
+      {
+        "name": "lg",
+        "value": "1024px"
+      },
+      {
+        "name": "xl",
+        "value": "1280px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Result Strip",
+      "kind": "custom",
+      "refersTo": "strip-holder",
+      "description": "A source's answer: paper in a category-coloured holder with a coded tab, ruled field cells, timing and a grease tick.",
+      "html": "<div class=\"ds-strip\"><div class=\"ds-strip-tab\">DNS</div><div class=\"ds-strip-body\"><div class=\"ds-strip-cell\"><span class=\"ds-strip-name\">DNS records</span><span class=\"ds-strip-sub\">Resolver</span></div><div class=\"ds-strip-cell\"><span class=\"ds-strip-label\">A</span>104.20.23.154 +1</div><div class=\"ds-strip-cell\"><span class=\"ds-strip-label\">MX</span>null MX (no mail)</div><div class=\"ds-strip-cell ds-strip-time\">155 ms <svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\"><path d=\"M3.5 12.5 L9.5 18 L20.5 5.5\" fill=\"none\" stroke=\"#22509e\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></div></div></div>",
+      "css": ".ds-strip { --holder: var(--color-h-dns, #5db883); display: grid; grid-template-columns: 3.25rem minmax(0, 1fr); background: var(--holder); border-radius: 4px; padding: 2px 2px 2px 0; font-family: 'B612', system-ui, sans-serif; box-shadow: 0 1px 0 rgb(0 0 0 / .35), 0 3px 8px -2px rgb(0 0 0 / .35); max-width: 640px; } .ds-strip-tab { display: grid; place-content: center; color: #13181c; font-size: 12px; font-weight: 700; letter-spacing: .04em; } .ds-strip-body { display: grid; grid-template-columns: 11rem 1fr 1fr auto; background: #d8d2c0; color: #1f2429; border-radius: 2px; } .ds-strip-cell { padding: 7px 12px; border-left: 1px solid #aaa28c; min-width: 0; } .ds-strip-cell:first-child { border-left: 0; } .ds-strip-label { display: block; font-size: 11px; color: #4a4e48; } .ds-strip-name { font-weight: 700; } .ds-strip-sub { display: block; font-size: 12px; color: #4a4e48; } .ds-strip-time { display: flex; align-items: center; gap: 8px; font-size: 13px; font-variant-numeric: tabular-nums; } .ds-strip:hover { outline: 2px solid #62c6d4; outline-offset: 2px; }"
+    },
+    {
+      "name": "Empty Holder",
+      "kind": "custom",
+      "refersTo": "strip-holder",
+      "description": "Absence: a source not run, a layer hidden, a key missing. Dashed rail outline, no paper.",
+      "html": "<div class=\"ds-empty\"><span class=\"ds-empty-tab\">INT</span><span class=\"ds-empty-body\"><span class=\"ds-empty-name\">Shodan</span><span class=\"ds-empty-sub\">Needs SHODAN_API_KEY</span></span></div>",
+      "css": ".ds-empty { display: grid; grid-template-columns: 3.25rem 1fr; border: 1px dashed #3a4550; border-radius: 4px; color: #a2aeb7; font-family: 'B612', system-ui, sans-serif; max-width: 360px; } .ds-empty-tab { display: grid; place-content: center; font-size: 12px; font-weight: 700; color: #85929c; } .ds-empty-body { border-left: 1px dashed #3a4550; padding: 8px 12px; font-size: 13px; } .ds-empty-name { display: block; color: #d7dee2; } .ds-empty-sub { display: block; font-size: 12px; } .ds-empty:hover { border-color: #85929c; }"
+    },
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "The single action colour: Sweep, Download a clean copy, Save scope.",
+      "html": "<button class=\"ds-btn-primary\">Sweep</button>",
+      "css": ".ds-btn-primary { background: #62c6d4; color: #13181c; font-family: 'B612', system-ui, sans-serif; font-weight: 700; font-size: 15px; padding: 12px 28px; border: 0; border-radius: 3px; cursor: pointer; transition: filter 150ms; } .ds-btn-primary:hover { filter: brightness(1.1); } .ds-btn-primary:focus-visible { outline: 2px solid #62c6d4; outline-offset: 2px; } .ds-btn-primary:disabled { background: #2d363d; color: #85929c; cursor: not-allowed; }"
+    },
+    {
+      "name": "Quiet Button",
+      "kind": "button",
+      "refersTo": "button-quiet",
+      "description": "Secondary actions on the console: exports, hide panel.",
+      "html": "<button class=\"ds-btn-quiet\">Markdown report</button>",
+      "css": ".ds-btn-quiet { background: transparent; color: #a2aeb7; font-family: 'B612', system-ui, sans-serif; font-size: 13px; padding: 4px 10px; border: 0; border-radius: 3px; cursor: pointer; transition: background-color 150ms, color 150ms; } .ds-btn-quiet:hover { background: #2d363d; color: #d7dee2; } .ds-btn-quiet:focus-visible { outline: 2px solid #62c6d4; outline-offset: 2px; }"
+    },
+    {
+      "name": "Console Field",
+      "kind": "input",
+      "refersTo": "field",
+      "description": "Text input on the console, e.g. the scope allowlist.",
+      "html": "<input class=\"ds-field\" placeholder=\"example.com\" />",
+      "css": ".ds-field { background: #252c32; color: #d7dee2; border: 1px solid #3a4550; border-radius: 3px; padding: 10px 12px; font-family: 'B612', system-ui, sans-serif; font-size: 13px; caret-color: #62c6d4; } .ds-field::placeholder { color: #85929c; } .ds-field:focus { outline: none; border-color: #62c6d4; }"
+    },
+    {
+      "name": "Rail Navigation",
+      "kind": "nav",
+      "refersTo": "nav-item",
+      "description": "Left rail nav; the active item gets a raised fill and a cyan icon.",
+      "html": "<nav class=\"ds-nav\"><a class=\"ds-nav-item is-active\" href=\"#\"><svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.75\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M12 12 L19 6\"/></svg>Recon</a><a class=\"ds-nav-item\" href=\"#\"><svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.75\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18\"/></svg>World map</a></nav>",
+      "css": ".ds-nav { display: flex; flex-direction: column; gap: 4px; width: 200px; background: #252c32; padding: 10px; font-family: 'B612', system-ui, sans-serif; } .ds-nav-item { display: flex; align-items: center; gap: 12px; padding: 10px 12px; border-radius: 3px; color: #a2aeb7; font-size: 13px; text-decoration: none; } .ds-nav-item:hover { background: rgb(45 54 61 / .6); color: #d7dee2; } .ds-nav-item.is-active { background: #2d363d; color: #d7dee2; } .ds-nav-item.is-active svg { color: #62c6d4; } .ds-nav-item:focus-visible { outline: 2px solid #62c6d4; outline-offset: 2px; }"
+    },
+    {
+      "name": "Pivot Row",
+      "kind": "chip",
+      "refersTo": "strip-holder",
+      "description": "A discovered entity ready to sweep; the type-code tab turns cyan on hover.",
+      "html": "<button class=\"ds-pivot\"><span class=\"ds-pivot-tab\">IP</span><span class=\"ds-pivot-val\">104.20.23.154</span></button>",
+      "css": ".ds-pivot { display: grid; grid-template-columns: 2.75rem 1fr; width: 280px; padding: 0; border: 0; border-radius: 3px; overflow: hidden; background: #252c32; color: #d7dee2; font-family: 'B612', system-ui, sans-serif; font-size: 13px; text-align: left; cursor: pointer; } .ds-pivot-tab { background: #3a4550; font-size: 11px; font-weight: 700; text-align: center; line-height: 26px; } .ds-pivot-val { padding: 3px 10px; font-variant-numeric: tabular-nums slashed-zero; } .ds-pivot:hover { background: #2d363d; } .ds-pivot:hover .ds-pivot-tab { background: #62c6d4; color: #13181c; } .ds-pivot:focus-visible { outline: 2px solid #62c6d4; outline-offset: 2px; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Strip Board",
+    "overview": "Sounding is laid out like an air-traffic control position. The page is a blue-grey console rack. Every piece of work is a paper flight progress strip sitting in a plastic holder whose colour says which category it belongs to. A recon source, a map layer, a revealing metadata field and an API key are all strips. A strip that is printed on paper is live: it answered, it is showing, or it is set. An empty dashed holder is the absence: not run, hidden, or missing a key. That one state vocabulary carries every screen.\n\nDensity is operational, not decorative. Strips are narrow and packed in bays with a rail above each bay. Fields sit in ruled cells with small captions. The strip is the only container; there are no cards. The single piece of atmosphere is the radar scope. Its sectors are categories, its log-scale rings are response time, and its blips light as answers land. It is a real data graphic, not ornament.\n\nThe system is built for a dim room and long sessions. The ground is a mid-dark blue-grey, not black. The paper is a dimmed buff, not white. Radar cyan is the only accent that means \"you can act here\".",
+    "keyCharacteristics": [
+      "Paper strips in category-coloured holders, each with a three-letter code on its tab.",
+      "Printed strip means active; empty dashed holder means inactive, missing or not applicable.",
+      "Grease-pencil marks: a blue tick for an answer, a red cross and strikethrough for a failure.",
+      "A radar scope plots latency by category; distance from the centre is response time.",
+      "One typeface family (Geist, the Airbus cockpit face) at every size."
+    ],
+    "rules": [
+      {
+        "name": "The Holder Rule",
+        "body": "Holder colours classify; they never decorate. A colour appears on a holder, a radar sector or a blip for the category it names, and nowhere else.",
+        "section": "colors"
+      },
+      {
+        "name": "The One Action Rule",
+        "body": "Radar Cyan marks what can be acted on or where focus is. Nothing inactive is ever cyan.",
+        "section": "colors"
+      },
+      {
+        "name": "The Paper Is Live Rule",
+        "body": "Paper (#0a0a0a) is reserved for things that are live: answered sources, visible layers, set keys, the active target. Inactive items are drawn as empty dashed holders on the console, never as greyed-out paper.",
+        "section": "colors"
+      },
+      {
+        "name": "The Readable Indicator Rule",
+        "body": "IPs, hashes, domains and timings use Geist with tabular, slashed-zero figures, never a monospace. A monospace gives `.` a full cell and turns `1.1.1.1` into `1. 1. 1. 1`.",
+        "section": "typography"
+      },
+      {
+        "name": "The Sentence Case Rule",
+        "body": "Headings, captions and buttons use sentence case. Upper case is reserved for the three-letter holder codes and environment variable names.",
+        "section": "typography"
+      },
+      {
+        "name": "The Flat Rack Rule",
+        "body": "Only strips and floating map overlays cast shadows. Bays, rows and fields are flat and separated by tone.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "**Do** express every on/off, set/missing or answered/not-run state as a printed strip versus an empty dashed holder.",
+      "**Do** give every new category of thing a three-letter holder code and one holder colour, and use that colour everywhere the category appears.",
+      "**Do** keep indicator values in Geist with tabular, slashed-zero figures.",
+      "**Do** keep Radar Cyan for actions, selection and focus only.",
+      "**Do** write bay headings in sentence case with a count, such as \"Results 9 of 9\"."
+    ],
+    "donts": [
+      "**Don't** set indicators or UI text in Geist Mono; it spaces punctuation apart. It is for raw JSON only.",
+      "**Don't** wrap content in generic rounded cards; the strip is the container.",
+      "**Don't** use a holder colour to decorate something outside its category.",
+      "**Don't** grey out paper to show inactivity; use an empty holder.",
+      "**Don't** add texture, bevels or faux-paper effects; the paper and plastic are flat colour."
+    ]
+  }
+}
